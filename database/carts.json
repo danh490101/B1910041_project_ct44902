@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6450be073318a2e36eb761e0"
+  },
+  "userId": "644eb371ab695e8b7d0bdaef",
+  "productId": "6450bdfe3318a2e36eb761d8",
+  "quantity": 3,
+  "title": "OD Bee 01",
+  "img": "https://www.owndays.com/storage/products/95b0db58-2288-44fd-93a5-c53afe9ee38c.webp",
+  "color": "đen",
+  "size": "A",
+  "price": 2900000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683013127043"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683014566560"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450be523318a2e36eb761f4"
+  },
+  "userId": "644eb371ab695e8b7d0bdaef",
+  "productId": "6450be443318a2e36eb761ea",
+  "quantity": 3,
+  "title": "GM Dias 01",
+  "img": "https://www-prd-us.gentlemonster.com/media/catalog/product/cache/6c6f229b8a7ab97f51028776641e27d1/1/1/11001_2040442012211861705_01_1.jpg",
+  "color": "đen",
+  "size": "A",
+  "price": 700000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683013202179"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683016463632"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645232cd6833deede4526a1e"
+  },
+  "userId": "6450e8103318a2e36eb76405",
+  "productId": "6450bdfe3318a2e36eb761d8",
+  "quantity": 1,
+  "title": "OD Bee 01",
+  "img": "https://www.owndays.com/storage/products/95b0db58-2288-44fd-93a5-c53afe9ee38c.webp",
+  "color": "đen",
+  "size": "A",
+  "price": 2900000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683108557541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683108557541"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645234b36833deede4526a29"
+  },
+  "userId": "6450e8103318a2e36eb76405",
+  "productId": "6450be443318a2e36eb761ea",
+  "quantity": 1,
+  "title": "GM Dias 01",
+  "img": "https://www-prd-us.gentlemonster.com/media/catalog/product/cache/6c6f229b8a7ab97f51028776641e27d1/1/1/11001_2040442012211861705_01_1.jpg",
+  "color": "đen",
+  "size": "A",
+  "price": 700000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683109043842"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683109043842"
+    }
+  },
+  "__v": 0
+}]

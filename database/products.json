@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "6450bdfe3318a2e36eb761d8"
+  },
+  "title": "OD Bee 01",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.Giữ ​​dây gọng kính bên hông lau và lau nhẹ thấu kính để tránh lực quá mạnh gây hỏng gọng hoặc thấu kính. ",
+  "img": [
+    "https://www.owndays.com/storage/products/95b0db58-2288-44fd-93a5-c53afe9ee38c.webp"
+  ],
+  "categories": "od",
+  "size": "A",
+  "color": "đen",
+  "price": 2900000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683013118149"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683013118149"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450be443318a2e36eb761ea"
+  },
+  "title": "GM Dias 01",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.",
+  "img": [
+    "https://www-prd-us.gentlemonster.com/media/catalog/product/cache/6c6f229b8a7ab97f51028776641e27d1/1/1/11001_2040442012211861705_01_1.jpg"
+  ],
+  "categories": "gm",
+  "size": "A",
+  "color": "đen",
+  "price": 700000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683013188302"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683013188302"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e65f3318a2e36eb763ce"
+  },
+  "title": "OD Bee 02",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.Giữ ​​dây gọng kính bên hông lau và lau nhẹ thấu kính để tránh lực quá mạnh gây hỏng gọng hoặc thấu kính. ",
+  "img": [
+    "https://www.owndays.com/storage/products/4232a05d-8e35-4eb7-a44d-e9f6feba4fa2.webp"
+  ],
+  "categories": "od",
+  "price": 700000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023455422"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023455422"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e6783318a2e36eb763d1"
+  },
+  "title": "OD Bee 03",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau Giữ ​​dây gọng kính bên hông lau và lau nhẹ thấu kính để tránh lực quá mạnh gây hỏng gọng hoặc thấu kính. ",
+  "img": [
+    "https://www.owndays.com/storage/products/21986717-d0c4-4ed4-9842-3a463a2ae505.webp"
+  ],
+  "categories": "od",
+  "price": 140000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023480910"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023480910"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e68d3318a2e36eb763d4"
+  },
+  "title": "OD Bee 04",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.Giữ ​​dây gọng kính bên hông lau và lau nhẹ thấu kính để tránh lực quá mạnh gây hỏng gọng hoặc thấu kính. ",
+  "img": [
+    "https://www.owndays.com/storage/products/c16672b1-64c7-4de7-a1b9-67114783fccd.webp"
+  ],
+  "categories": "od",
+  "price": 700000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023501846"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023501846"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e6a23318a2e36eb763d7"
+  },
+  "title": "OD Bee 05",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.",
+  "img": [
+    "https://www.owndays.com/storage/products/a53d1c21-b2f6-496a-9f6e-c9193b1a975a.webp"
+  ],
+  "categories": "od",
+  "price": 130000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023522084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023522084"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e6f33318a2e36eb763dc"
+  },
+  "title": "GM Kun 01",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.",
+  "img": [
+    "https://www-prd-us.gentlemonster.com/media/catalog/product/cache/6c6f229b8a7ab97f51028776641e27d1/1/1/11001_0002_01_2_1.jpg"
+  ],
+  "categories": "gm",
+  "price": 130000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023603209"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023603209"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450e70b3318a2e36eb763df"
+  },
+  "title": "GM Kun 02",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau.",
+  "img": [
+    "https://www-prd-us.gentlemonster.com/media/catalog/product/cache/6c6f229b8a7ab97f51028776641e27d1/1/1/11001_0003_OL3_2.jpg"
+  ],
+  "categories": "gm",
+  "price": 140000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683023627216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683023627216"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450eb123318a2e36eb76464"
+  },
+  "title": "Baguette 01",
+  "desc": "Nên tráng mắt kính bằng nước sạch và dùng khăn giấy thấm bớt độ ẩm, sau đó dùng khăn lau kính chuyên dụng để thử lau Giữ ​​dây gọng kính bên hông lau và lau nhẹ thấu kính để tránh lực quá mạnh gây hỏng gọng hoặc thấu kính. ",
+  "img": [
+    "https://www.owndays.com/storage/products/e4e4e19f-c4dd-4e67-95c4-65ff0bf14803.webp"
+  ],
+  "categories": "od",
+  "price": 130000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683024658327"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683024658327"
+    }
+  },
+  "__v": 0
+}]
